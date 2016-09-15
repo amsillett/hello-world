@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+I am old school software engineer, learning new methodologies...
